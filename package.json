@@ -6,9 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Muhammad Sadaf",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sadaf666/web-bytewrap.git"
+  },
+  "author": "Muhammad Sadaf Ansari",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sadaf666/web-bytewrap/issues"
+  },
+  "homepage": "https://github.com/Sadaf666/web-bytewrap#readme",
   "dependencies": {
-    "netlify-cli": "^6.7.6"
+    "dotenv": "^10.0.0",
+    "nodemailer": "^6.6.3"
   }
 }
